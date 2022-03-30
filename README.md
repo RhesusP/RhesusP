@@ -1,5 +1,7 @@
 # Hi ! 👋
 
+![](./images/header-banner.png)
+
 My name is Camille Bernot and I'm a currently in the last year of my Computer Science Degree at [UCBL Lyon 1](https://www.univ-lyon1.fr/) and I like learning new things by practice ! 🧑‍💻 
 </br>
 
