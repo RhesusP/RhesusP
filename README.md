@@ -16,10 +16,9 @@ My name is Camille Bernot and I'm a currently in the last year of my Computer Sc
 
 # 🔥 Github Stats
 
-<div style="display:flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhesusP&layout=compact">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhesusP&layout=compact">
+
 </br>
 
 # 💻 Languages and tools
