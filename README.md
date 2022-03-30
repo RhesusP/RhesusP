@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="center" src=""https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true"/>
 
 ![RhesusP's GitHub stats](https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true)
 
