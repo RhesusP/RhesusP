@@ -1,8 +1,8 @@
-### Hi ! 👋
+# Hi ! 👋
 
 My name is Camille Bernot and I'm a currently in the last year of my Computer Science Degree at [UCBL Lyon 1](https://www.univ-lyon1.fr/) and I like learning new things by practice ! 🧑‍💻 
 
-### 🌱 I'm currently learning
+# 🌱 I'm currently learning
 
 **Claude Bernard University Lyon 1**
 
@@ -12,14 +12,14 @@ My name is Camille Bernot and I'm a currently in the last year of my Computer Sc
 * INF3038L Formal language theory
 * INF3034L Classical logic
 
-### 🔥 Github Stats
+# 🔥 Github Stats
 
 <div style="display:flex;">
     <img src="https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhesusP&layout=compact">
 </div>
 
-### 💻 Languages and tools
+# 💻 Languages and tools
 <div style="display:flex; justify-content:space-around;">
     <img src="./images/cplusplus.png" alt="c++" height="40">
     <img src="./images/python.png" alt="python" height=40>
@@ -34,7 +34,7 @@ My name is Camille Bernot and I'm a currently in the last year of my Computer Sc
 </div>
 
 
-### 📫 How to reach me
+# 📫 How to reach me
 
 <div style="display:flex; justify-content:space-around;">
     <span style="display:flex;">
