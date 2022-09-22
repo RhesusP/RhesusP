@@ -1,6 +1,6 @@
 # Hi ! 👋
 
-My name is Camille Bernot and I'm a currently in the last year of my Computer Science Degree at [UCBL Lyon 1](https://www.univ-lyon1.fr/) and I like learning new things by practice ! 🧑‍💻 
+My name is Camille Bernot, I just graduated with a Computer Science Bachelor at [UCBL Lyon 1](https://www.univ-lyon1.fr/) and I start an IT cursus at 42 school. I also like learning new things by practice ! 🧑‍💻 
 </br>
 
 # 🌱 I'm currently learning
