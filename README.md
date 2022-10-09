@@ -1,50 +1,19 @@
-# Hi ! 👋
+# 💫 About Me:
+🔭 I’m currently working on a video communication PWA <br>🌱 I’m currently learning a lot of thing at 42 school (Lyon)
 
-My name is Camille Bernot, I just graduated with a Computer Science Bachelor at [UCBL Lyon 1](https://www.univ-lyon1.fr/) and I start an IT cursus at 42 school. I also like learning new things by practice ! 🧑‍💻 
-</br>
 
-# 🌱 I'm currently learning
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/K1000#7824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camillebernot) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16511213) 
 
-**Claude Bernard University Lyon 1**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RhesusP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RhesusP&theme=vue-dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RhesusP&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-* INF3002L Programming: algorithms and complexity
-* INF3049L Concurrent programming
-* INF3041L Code optimization
-* INF3038L Formal language theory
-* INF3034L Classical logic
-</br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RhesusP&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-# 🔥 Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RhesusP&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RhesusP&layout=compact">
-
-</br>
-
-# 💻 Languages and tools
-<div style="display:flex; justify-content:space-around;">
-    <img src="./images/cplusplus.png" alt="c++" height="40">
-    <img src="./images/python.png" alt="python" height=40>
-    <img src="./images/html.png" alt="html" height=40>
-    <img src="./images/css.png" alt="css" height=40>
-    <img src="./images/js.png" alt="javascript" height=40>
-    <img src="./images/react.png" alt="react" height=40>
-    <img src="./images/inkscape.png" alt="inkscape" height=40>
-    <img src="./images/gimp.png" alt="gimp" height=40>
-    <img src="./images/vscode.png" alt="visual studio code" height=40>
-    <img src="./images/ubuntu.png" alt="ubuntu" height=40>
-</div>
-</br>
-
-# 📫 How to reach me
-
-<div style="display:flex; justify-content:space-around;">
-    <span style="display:flex;">
-    <a href="https://www.linkedin.com/in/camillebernot/"><img src="./images/linkedin.png" alt="linkedin" height=30></a>
-    <p style="margin-left:10px;">@camillebernot</p>
-    </span>
-    <span style="display:flex;">
-    <a href="mailto:camil.bernot.cb@gmail.com"><img src="./images/gmail.png" alt="gmail" width=30></a>
-    <p style="margin-left:10px;">camil.bernot.cb@gmail.com</p>
-    </span>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=RhesusP&icon=2&color=8)](https://visitcount.itsvg.in)
