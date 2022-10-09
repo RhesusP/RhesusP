@@ -14,6 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RhesusP&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=RhesusP&icon=2&color=8)](https://visitcount.itsvg.in)
