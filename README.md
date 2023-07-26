@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently an IT student at 42 Lyon.<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning a lot and I like it!<br>💬 Ask me anything you want<br>⚡ Fun fact: 🐈‍⬛❤️☕️.
 
+[![cbernot's 42 stats](https://badge42.vercel.app/api/v2/clkk2nxcm003008mpwjvcldkq/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/K1000#7824) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/camillebernot) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16511213) 
