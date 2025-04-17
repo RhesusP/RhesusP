@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently an IT student at 42 Lyon.<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning a lot and I like it!<br>💬 Ask me anything you want<br>⚡ Fun fact: 🐈‍⬛❤️☕️.
+🔭 I’m currently an IT student at 42 Lyon.<br>🌱 I’m currently learning a lot and I like it!<br>💬 Ask me anything you want<br>⚡ Fun fact: 🐈‍⬛❤️☕️.
 
 [![cbernot's 42 stats](https://badge42.vercel.app/api/v2/clkk2nxcm003008mpwjvcldkq/stats?cursusId=21&coalitionId=303)](https://github.com/JaeSeoKim/badge42)
 
